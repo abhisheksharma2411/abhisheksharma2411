@@ -24,40 +24,41 @@ of bug whose symptom is a customer charged twice.
       <td><a href="https://github.com/addyosmani/agent-skills">addyosmani/agent-skills</a></td>
       <td align="right">~89k</td>
       <td align="center">—</td>
-      <td align="center"><b>1 merged</b></td>
+      <td align="center"><b><a href="https://github.com/addyosmani/agent-skills/pull/479">#479</a></b></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td><a href="https://github.com/juspay/hyperswitch">juspay/hyperswitch</a></td>
       <td align="right">~43k</td>
-      <td align="center">1 open</td>
-      <td align="center">1 open</td>
-      <td align="center">2</td>
+      <td align="center"><a href="https://github.com/juspay/hyperswitch/pull/13770">#13770</a></td>
+      <td align="center"><a href="https://github.com/juspay/hyperswitch/pull/13810">#13810</a></td>
+      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=reviewed-by%3Aabhisheksharma2411">2</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/goauthentik/authentik">goauthentik/authentik</a></td>
       <td align="right">~25k</td>
-      <td align="center"><b>2 merged</b>, 2 open</td>
-      <td align="center">1 open</td>
-      <td align="center">3</td>
+      <td align="center"><b><a href="https://github.com/goauthentik/authentik/pull/24981">#24981</a></b> <b><a href="https://github.com/goauthentik/authentik/pull/25204">#25204</a></b><br><a href="https://github.com/goauthentik/authentik/pull/24965">#24965</a> <a href="https://github.com/goauthentik/authentik/pull/25208">#25208</a></td>
+      <td align="center"><a href="https://github.com/goauthentik/authentik/pull/25041">#25041</a></td>
+      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=reviewed-by%3Aabhisheksharma2411">3</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/lidge-jun/opencodex">lidge-jun/opencodex</a></td>
       <td align="right">~11k</td>
-      <td align="center"><b>2 merged</b></td>
+      <td align="center"><b><a href="https://github.com/lidge-jun/opencodex/pull/1407">#1407</a></b> <b><a href="https://github.com/lidge-jun/opencodex/pull/1819">#1819</a></b></td>
       <td align="center">—</td>
-      <td align="center">2</td>
+      <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=reviewed-by%3Aabhisheksharma2411">2</a></td>
     </tr>
     <tr>
       <td align="right"><b>Total</b></td>
       <td align="right"><b>~169k</b></td>
-      <td align="center"><b>4 merged</b>, 3 open</td>
-      <td align="center"><b>1 merged</b>, 2 open</td>
+      <td align="center"><b>7</b> <sub>(4 merged)</sub></td>
+      <td align="center"><b>3</b> <sub>(1 merged)</sub></td>
       <td align="center"><b>7</b></td>
     </tr>
   </tbody>
 </table>
 
+<sub><b>Bold</b> = merged. Every number links to the pull request or review.</sub>
 Merged by those projects' own maintainers — [`addyosmani`](https://github.com/addyosmani),
 [`BeryJu`](https://github.com/BeryJu) (authentik lead), [`rissson`](https://github.com/rissson),
 [`lidge-jun`](https://github.com/lidge-jun) and [`Wibias`](https://github.com/Wibias).
