@@ -6,12 +6,57 @@ of bug whose symptom is a customer charged twice.
 
 ### Open source
 
-| Project | Stars | My contributions |
-|---|---:|---|
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | ~89k | [1 merged](https://github.com/addyosmani/agent-skills/pulls?q=author%3Aabhisheksharma2411) |
-| [`juspay/hyperswitch`](https://github.com/juspay/hyperswitch) | ~43k | [2 open](https://github.com/juspay/hyperswitch/pulls?q=author%3Aabhisheksharma2411) · [2 reviewed](https://github.com/juspay/hyperswitch/pulls?q=reviewed-by%3Aabhisheksharma2411) |
-| [`goauthentik/authentik`](https://github.com/goauthentik/authentik) | ~25k | [2 merged, 3 open](https://github.com/goauthentik/authentik/pulls?q=author%3Aabhisheksharma2411) · [3 reviewed](https://github.com/goauthentik/authentik/pulls?q=reviewed-by%3Aabhisheksharma2411) |
-| [`lidge-jun/opencodex`](https://github.com/lidge-jun/opencodex) | ~11k | [2 merged](https://github.com/lidge-jun/opencodex/pulls?q=author%3Aabhisheksharma2411) · [2 reviewed](https://github.com/lidge-jun/opencodex/pulls?q=reviewed-by%3Aabhisheksharma2411) |
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2" align="left">Project</th>
+      <th rowspan="2" align="right">Stars</th>
+      <th colspan="3" align="center">My contributions</th>
+    </tr>
+    <tr>
+      <th align="center">Bug fixes</th>
+      <th align="center">New features</th>
+      <th align="center">Reviews</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/addyosmani/agent-skills">addyosmani/agent-skills</a></td>
+      <td align="right">~89k</td>
+      <td align="center">—</td>
+      <td align="center"><b>1 merged</b></td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/juspay/hyperswitch">juspay/hyperswitch</a></td>
+      <td align="right">~43k</td>
+      <td align="center">1 open</td>
+      <td align="center">1 open</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/goauthentik/authentik">goauthentik/authentik</a></td>
+      <td align="right">~25k</td>
+      <td align="center"><b>2 merged</b>, 2 open</td>
+      <td align="center">1 open</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lidge-jun/opencodex">lidge-jun/opencodex</a></td>
+      <td align="right">~11k</td>
+      <td align="center"><b>2 merged</b></td>
+      <td align="center">—</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Total</b></td>
+      <td align="right"><b>~169k</b></td>
+      <td align="center"><b>4 merged</b>, 3 open</td>
+      <td align="center"><b>1 merged</b>, 2 open</td>
+      <td align="center"><b>7</b></td>
+    </tr>
+  </tbody>
+</table>
 
 Merged by those projects' own maintainers — [`addyosmani`](https://github.com/addyosmani),
 [`BeryJu`](https://github.com/BeryJu) (authentik lead), [`rissson`](https://github.com/rissson),
