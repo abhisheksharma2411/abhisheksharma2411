@@ -52,7 +52,7 @@ of bug whose symptom is a customer charged twice.
       <td><a href="https://github.com/lidge-jun/opencodex">lidge-jun/opencodex</a></td>
       <td align="right">~13k</td>
       <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=author%3Aabhisheksharma2411"><b>2</b></a></td>
-      <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=author%3Aabhisheksharma2411">1</a></td>
+      <td align="center"><a href="https://github.com/lidge-jun/opencodex/commit/00834d71094b5eb5b3e531c2ff36172393fca546"><b>1</b></a></td>
       <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">7</a></td>
     </tr>
     <tr>
@@ -66,13 +66,14 @@ of bug whose symptom is a customer charged twice.
       <td align="right"><b>Total</b></td>
       <td align="right"><b>~239k</b></td>
       <td align="center"><b>13</b> + 6</td>
-      <td align="center"><b>2</b> + 5</td>
+      <td align="center"><b>3</b> + 4</td>
       <td align="center"><b>38</b></td>
     </tr>
   </tbody>
 </table>
 
-<sub><b>Bold</b> = merged; plain = open, under review. Counts link through to the pull requests.</sub>
+<sub><b>Bold</b> = merged; plain = open, under review. Counts link through to the pull requests.<br>
+The opencodex feature landed as a maintainer squash — <a href="https://github.com/lidge-jun/opencodex/pull/3251">#3251</a> shows as closed, and its commits were carried into <a href="https://github.com/lidge-jun/opencodex/commit/00834d71094b5eb5b3e531c2ff36172393fca546"><code>00834d71</code></a> on <code>dev</code> with co-authorship, which is what that cell links to.</sub>
 
 Merged by those projects' own maintainers — [`addyosmani`](https://github.com/addyosmani),
 [`diegosouzapw`](https://github.com/diegosouzapw) (OmniRoute lead),
