@@ -22,52 +22,52 @@ of bug whose symptom is a customer charged twice.
   <tbody>
     <tr>
       <td><a href="https://github.com/addyosmani/agent-skills">addyosmani/agent-skills</a></td>
-      <td align="right">~92k</td>
-      <td align="center"><a href="https://github.com/addyosmani/agent-skills/pulls?q=author%3Aabhisheksharma2411"><b>1</b> + 2</a></td>
-      <td align="center"><a href="https://github.com/addyosmani/agent-skills/pulls?q=author%3Aabhisheksharma2411"><b>1</b> + 1</a></td>
-      <td align="center"><a href="https://github.com/addyosmani/agent-skills/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">6</a></td>
+      <td align="right">~102k</td>
+      <td align="center"><a href="https://github.com/addyosmani/agent-skills/pulls?q=author%3Aabhisheksharma2411"><b>5</b></a></td>
+      <td align="center"><a href="https://github.com/addyosmani/agent-skills/pulls?q=author%3Aabhisheksharma2411"><b>4</b> + 3</a></td>
+      <td align="center"><a href="https://github.com/addyosmani/agent-skills/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">19</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/diegosouzapw/OmniRoute">diegosouzapw/OmniRoute</a></td>
-      <td align="right">~60k</td>
+      <td align="right">~74k</td>
+      <td align="center"><a href="https://github.com/diegosouzapw/OmniRoute/pulls?q=author%3Aabhisheksharma2411"><b>11</b></a></td>
       <td align="center"><a href="https://github.com/diegosouzapw/OmniRoute/pulls?q=author%3Aabhisheksharma2411"><b>4</b> + 1</a></td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/diegosouzapw/OmniRoute/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">7</a></td>
+      <td align="center"><a href="https://github.com/diegosouzapw/OmniRoute/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">20</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/juspay/hyperswitch">juspay/hyperswitch</a></td>
-      <td align="right">~44k</td>
-      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=author%3Aabhisheksharma2411">2</a></td>
-      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=author%3Aabhisheksharma2411">2</a></td>
-      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">6</a></td>
+      <td align="right">~45k</td>
+      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=author%3Aabhisheksharma2411">7</a></td>
+      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=author%3Aabhisheksharma2411">5</a></td>
+      <td align="center"><a href="https://github.com/juspay/hyperswitch/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">20</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/goauthentik/authentik">goauthentik/authentik</a></td>
-      <td align="right">~25k</td>
-      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=author%3Aabhisheksharma2411"><b>4</b> + 1</a></td>
-      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=author%3Aabhisheksharma2411"><b>1</b> + 1</a></td>
-      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">7</a></td>
+      <td align="right">~26k</td>
+      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=author%3Aabhisheksharma2411"><b>4</b></a></td>
+      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=author%3Aabhisheksharma2411"><b>1</b></a></td>
+      <td align="center"><a href="https://github.com/goauthentik/authentik/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">9</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/lidge-jun/opencodex">lidge-jun/opencodex</a></td>
-      <td align="right">~13k</td>
-      <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=author%3Aabhisheksharma2411"><b>2</b></a></td>
+      <td align="right">~17k</td>
+      <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=author%3Aabhisheksharma2411"><b>4</b></a></td>
       <td align="center"><a href="https://github.com/lidge-jun/opencodex/commit/00834d71094b5eb5b3e531c2ff36172393fca546"><b>1</b></a></td>
-      <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">7</a></td>
+      <td align="center"><a href="https://github.com/lidge-jun/opencodex/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">22</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/akitaonrails/ai-memory">akitaonrails/ai-memory</a></td>
-      <td align="right">~5k</td>
-      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=author%3Aabhisheksharma2411"><b>2</b></a></td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">5</a></td>
+      <td align="right">~9k</td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=author%3Aabhisheksharma2411"><b>5</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=author%3Aabhisheksharma2411"><b>4</b></a></td>
+      <td align="center"><a href="https://github.com/akitaonrails/ai-memory/pulls?q=reviewed-by%3Aabhisheksharma2411+-author%3Aabhisheksharma2411">21</a></td>
     </tr>
     <tr>
       <td align="right"><b>Total</b></td>
-      <td align="right"><b>~239k</b></td>
-      <td align="center"><b>13</b> + 6</td>
-      <td align="center"><b>3</b> + 4</td>
-      <td align="center"><b>38</b></td>
+      <td align="right"><b>~273k</b></td>
+      <td align="center"><b>29</b> + 7</td>
+      <td align="center"><b>14</b> + 9</td>
+      <td align="center"><b>111</b></td>
     </tr>
   </tbody>
 </table>
@@ -82,18 +82,24 @@ Merged by those projects' own maintainers — [`addyosmani`](https://github.com/
 [`dominic-r`](https://github.com/dominic-r), [`lidge-jun`](https://github.com/lidge-jun)
 and [`Wibias`](https://github.com/Wibias).
 
-Alongside the pull requests, **38 reviews** on other contributors' work across the
+Alongside the pull requests, **111 reviews** on other contributors' work across the
 six projects — usually the more useful half. A representative one: on an OmniRoute
 combo-routing fix I traced a persisted routing pin back through both of its readers
 and flagged that clearing it unconditionally would discard a healthy provider. That
 review outlived the pull request it was left on, and the finding became its own
 change once I could measure which routing strategy it actually affected.
 
+Recently started contributing to three more, with nothing merged there yet —
+[`alibaba/open-code-review`](https://github.com/alibaba/open-code-review) (~44k),
+[`agent-substrate/substrate`](https://github.com/agent-substrate/substrate) and
+[`anthropics/financial-services`](https://github.com/anthropics/financial-services) (~39k).
+They move into the table above when work lands rather than when it is opened.
+
 ### My projects
 
-**[justonce](https://github.com/abhisheksharma2411/justonce)** · [PyPI](https://pypi.org/project/justonce/) — make side effects happen exactly once. Idempotency keys, atomic claims, divergence detection and reconciliation for Python, with SQLite, Postgres and Django stores held to one shared conformance suite.
+**[justonce](https://github.com/abhisheksharma2411/justonce)** · [PyPI](https://pypi.org/project/justonce/) — make side effects happen exactly once. Idempotency keys, atomic claims, divergence detection and reconciliation for Python, with SQLite, Postgres and Django stores held to one shared conformance suite. The ledger is queryable during an incident — which keys were affected in this window, and is it still happening — and `UNKNOWN` outcomes reconcile against the provider that actually knows, planning and applying as separate steps so nothing is written before the plan has been read.
 
-**[distributed-systems-skills](https://github.com/abhisheksharma2411/distributed-systems-skills)** — agent skills for production correctness: exactly-once semantics, and failure-mode analysis before the happy path is written.
+**[distributed-systems-skills](https://github.com/abhisheksharma2411/distributed-systems-skills)** — agent skills for production correctness: exactly-once semantics, failure-mode analysis before the happy path is written, live schema migration, and evolving a published API without breaking the callers already on it. Each skill ships an eval case and a fixture carrying the real defect, and the catalogue is checked for routing collisions so two skills cannot quietly claim the same prompt.
 
 **[retry-safe-payment-idempotency-artifact](https://github.com/abhisheksharma2411/retry-safe-payment-idempotency-artifact)** — a bounded TLA+ model and deterministic conformance artifact for retry-safe payments.
 
